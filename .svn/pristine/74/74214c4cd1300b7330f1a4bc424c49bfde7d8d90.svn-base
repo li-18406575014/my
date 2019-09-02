@@ -1,0 +1,8 @@
+package com.hyxy.controller;
+
+public class Test {
+
+	public static void wode() {
+		System.out.println("wode");
+	}
+}
